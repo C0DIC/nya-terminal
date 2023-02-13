@@ -67,7 +67,7 @@ int main(int argc, const char *argv[]) {
         return 0;
     }
 
-    if (local_time->tm_hour > 17 && local_time->tm_hour < 22) {
+    if (local_time->tm_hour > 17 && local_time->tm_hour <= 22) {
         printf(evening_greeting, USERNAME);
         printf(
             time_text, 
