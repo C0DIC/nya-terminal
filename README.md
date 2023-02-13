@@ -1,6 +1,6 @@
 # NYA Terminal >•<
 
-Simple & fun script that will show you date, time and etc like kawai~  
+Simple & fun script that will show you date, time and etc like kawai girl~  
 
 ## Requirements
 
